@@ -22,17 +22,17 @@
   },
   {
     "city_id": 4,
-    "city": "New Jersey City",
+    "city": "old Jersey City",
     "state": "NJ",
     "region": "Northeastern",
-    "updated_at": "2026-03-18T20:46:11.481+00:00"
+    "updated_at": "2026-03-18T20:56:11.481+00:00"
   },
   {
     "city_id": 5,
-    "city": "New Phoenix",
+    "city": "old Phoenix",
     "state": "AZ",
     "region": "Southwest",
-    "updated_at": "2026-03-18T18:28:11.481+00:00"
+    "updated_at": "2026-03-18T20:56:11.481+00:00"
   },
   {
     "city_id": 6,
