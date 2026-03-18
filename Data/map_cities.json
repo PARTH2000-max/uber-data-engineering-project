@@ -8,10 +8,10 @@
   },
   {
     "city_id": 2,
-    "city": "Los Angelas",
+    "city": "Las Vegas",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-03-18T18:28:11.481+00:00"
+    "updated_at": "2026-03-18T20:28:11.481+00:00"
   },
   {
     "city_id": 3,
@@ -22,10 +22,10 @@
   },
   {
     "city_id": 4,
-    "city": "Houston",
-    "state": "TX",
-    "region": "South",
-    "updated_at": "2026-03-18T18:28:11.481+00:00"
+    "city": "Jersey City",
+    "state": "NJ",
+    "region": "Northeastern",
+    "updated_at": "2026-03-18T20:46:11.481+00:00"
   },
   {
     "city_id": 5,
@@ -68,5 +68,12 @@
     "state": "CA",
     "region": "West",
     "updated_at": "2026-03-18T18:28:11.481+00:00"
+  },
+  {
+    "city_id": 11,
+    "city": "Washington",
+    "state": "DC",
+    "region": "West",
+    "updated_at": "2026-03-18T20:35:11.481+00:00"
   }
 ]
