@@ -8,17 +8,17 @@
   },
   {
     "city_id": 2,
-    "city": "New Las Vegas",
+    "city": "Las Vegas",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-03-18T20:28:11.481+00:00"
+    "updated_at": "2026-03-21T20:28:11.481+00:00"
   },
   {
     "city_id": 3,
-    "city": "New Chicago",
+    "city": "Chicago",
     "state": "IL",
     "region": "Midwest",
-    "updated_at": "2026-03-18T18:28:11.481+00:00"
+    "updated_at": "2026-03-21T18:28:11.481+00:00"
   },
   {
     "city_id": 4,
