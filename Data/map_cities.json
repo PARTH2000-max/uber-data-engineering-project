@@ -1,10 +1,10 @@
 [
   {
     "city_id": 1,
-    "city": "New York",
+    "city": "Old York",
     "state": "NY",
     "region": "Northeast",
-    "updated_at": "2026-03-18T18:28:11.481+00:00"
+    "updated_at": "2026-03-21T18:28:11.481+00:00"
   },
   {
     "city_id": 2,
@@ -22,10 +22,10 @@
   },
   {
     "city_id": 4,
-    "city": "old Jersey City",
+    "city": "Jersey City",
     "state": "NJ",
     "region": "Northeastern",
-    "updated_at": "2026-03-18T20:56:11.481+00:00"
+    "updated_at": "2026-03-21T20:56:11.481+00:00"
   },
   {
     "city_id": 5,
@@ -65,9 +65,9 @@
   {
     "city_id": 10,
     "city": "San Jose",
-    "state": "CA",
-    "region": "West",
-    "updated_at": "2026-03-18T18:28:11.481+00:00"
+    "state": "AC",
+    "region": "North",
+    "updated_at": "2026-03-21T18:28:11.481+00:00"
   },
   {
     "city_id": 11,
