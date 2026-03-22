@@ -1,5 +1,7 @@
 ## Uber End-to-End Data Engineering Project
 
+Architecture](./architecture.png)
+
 ### 🏗️ Project Architecture Flow
 
 ```
