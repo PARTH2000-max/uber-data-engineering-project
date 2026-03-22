@@ -1,0 +1,27 @@
+{
+	"name": "git_json",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "git_connector",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"file_path": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": {
+					"value": "@replace(dataset().file_path,'https://raw.githubusercontent.com', '')",
+					"type": "Expression"
+				}
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
