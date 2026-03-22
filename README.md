@@ -1,6 +1,6 @@
 ## Uber End-to-End Data Engineering Project
 
-Architecture](./architecture.png)
+![Architecture](./architecture.png)
 
 ### 🏗️ Project Architecture Flow
 
